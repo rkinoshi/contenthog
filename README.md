@@ -1,0 +1,1 @@
+![Build Status](https://codeship.com/projects/4ec597f0-5f13-0133-44a8-063698476357/status?branch=master)![Code Climate](https://codeclimate.com/github/MkNiz/contenthog.png) ![Coverage Status](https://coveralls.io/repos/MkNiz/contenthog/badge.png)
